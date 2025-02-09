@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Properties>
+        <!-- Define the folder where logs will be stored -->
+        <Property name="logFolder">logs</Property>
+    </Properties>
+
+    <Appenders>
+        <!-- File Appender to write logs to a file -->
+        <File name="FileAppender" fileName="${logFolder}/automation.log" append="false">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %msg%n" />
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="debug">
+            <!-- Reference the File Appender -->
+            <AppenderRef ref="FileAppender" />
+        </Root>
+    </Loggers>
+</Configuration>

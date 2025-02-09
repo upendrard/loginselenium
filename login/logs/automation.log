@@ -1,0 +1,24 @@
+2025-02-09 13:21:37 INFO  Login:35 - Browser launched
+2025-02-09 13:21:38 INFO  Login:37 - Navigated to HomePage
+2025-02-09 13:21:43 INFO  Login:41 - MyAccount Dropdown Clicked and LoginOption Selected
+2025-02-09 13:21:43 INFO  Login:55 - Navigate to Login Page
+2025-02-09 13:21:50 INFO  Login:59 - valid email and password entered and click Login Button
+2025-02-09 13:21:50 INFO  Login:62 - Navigate to Account Page
+2025-02-09 13:21:50 INFO  Login:66 - Login test passed.
+2025-02-09 13:21:58 INFO  Login:48 - Browser closed
+2025-02-09 13:22:39 INFO  Login:35 - Browser launched
+2025-02-09 13:22:39 INFO  Login:37 - Navigated to HomePage
+2025-02-09 13:22:51 INFO  Login:41 - MyAccount Dropdown Clicked and LoginOption Selected
+2025-02-09 13:22:51 INFO  Login:55 - Navigate to Login Page
+2025-02-09 13:22:58 INFO  Login:59 - valid email and password entered and click Login Button
+2025-02-09 13:22:58 INFO  Login:62 - Navigate to Account Page
+2025-02-09 13:22:58 INFO  Login:66 - Login test passed.
+2025-02-09 13:23:06 INFO  Login:48 - Browser closed
+2025-02-09 13:23:42 INFO  Login:35 - Browser launched
+2025-02-09 13:23:42 INFO  Login:37 - Navigated to HomePage
+2025-02-09 13:23:50 INFO  Login:41 - MyAccount Dropdown Clicked and LoginOption Selected
+2025-02-09 13:23:50 INFO  Login:55 - Navigate to Login Page
+2025-02-09 13:23:55 INFO  Login:59 - valid email and password entered and click Login Button
+2025-02-09 13:23:55 INFO  Login:62 - Navigate to Account Page
+2025-02-09 13:23:55 INFO  Login:66 - Login test passed.
+2025-02-09 13:24:04 INFO  Login:48 - Browser closed
